@@ -1,0 +1,64 @@
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.exe.config
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.exe
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.pdb
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csprojResolveAssemblyReference.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.Properties.Resources.resources
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.GenerateResource.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CoreCompileInputs.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.exe
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.pdb
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.Form1.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csprojResolveAssemblyReference.cache
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Admin_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Form1.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Login_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Properties.Resources.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Register_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.GenerateResource.Cache
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CoreCompileInputs.cache
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.exe
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.pdb
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.exe.config
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.exe
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.pdb
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.dll
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.SqlServer.dll
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.dll
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.EF6.dll
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.Linq.dll
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.xml
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.SqlServer.xml
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.xml
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.dll.config
+E:\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\db.db
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Users_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Logs_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Images_Screen.resources
+E:\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CopyComplete
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\db.db
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.exe.config
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.exe
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\photoeditor.pdb
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.dll
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.SqlServer.dll
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.dll
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.xml
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\EntityFramework.SqlServer.xml
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.xml
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\bin\Debug\System.Data.SQLite.dll.config
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csprojResolveAssemblyReference.cache
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Admin_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Form1.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Images_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Login_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Logs_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Properties.Resources.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Register_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.Users_Screen.resources
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.GenerateResource.cache
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CoreCompileInputs.cache
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CopyComplete
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.exe
+D:\ДОКИ\2 курс\2 семестр\КП\diana-master\diana-master\photoeditor\photoeditor\obj\Debug\photoeditor.pdb
